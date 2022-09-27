@@ -6,7 +6,7 @@
           A Systems Analysis and Development Student 
 </h3>
 <h4 align="center">
-                     Actually working as a Back-end Sofware Engineer Inter at Ifood
+                     Currently working as a Back-end Sofware Engineer Inter at Ifood
 </h4>
 
 
